@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there fellow coders (◕▽◕✿)
+
+🌱 I’m currently learning web development at Business College Helsinki.
 
 <!--
 **julilan/julilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
