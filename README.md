@@ -1,6 +1,8 @@
-### Hi there fellow coders (◕▽◕✿)
+### Hi there o/
 
 🌱 I’m currently learning web development at Business College Helsinki.
+
+🖼️ Pfp Image by [Freepik](https://www.freepik.com/free-vector/collection-watercolor-autumn-animals_5289616.htm#query=forest%20animals&position=46&from_view=search&track=robertav1_2_sidr)
 
 <!--
 **julilan/julilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
