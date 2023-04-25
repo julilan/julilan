@@ -1,20 +1,24 @@
-### Hi there o/
+### Juli Molnár @julilan
+<p>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
 
-🌱 I’m currently learning web development at Business College Helsinki.
+Hi there! I’m currently learning web development at [Business College Helsinki](https://www.bc.fi/).
 
-🖼️ Pfp Image by [Freepik](https://www.freepik.com/free-vector/collection-watercolor-autumn-animals_5289616.htm#query=forest%20animals&position=46&from_view=search&track=robertav1_2_sidr)
+Pfp image by [Freepik](https://www.freepik.com/free-vector/collection-watercolor-autumn-animals_5289616.htm#query=forest%20animals&position=46&from_view=search&track=robertav1_2_sidr)
 
-<!--
-**julilan/julilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>My Github Stats</h2>
 
-Here are some ideas to get you started:
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=julilan&hide=contribs&count_private=true&show_icons=true&theme=react&hide_title=true&rank_icon=github&text_bold=false">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julilan&theme=react&hide=Dockerfile&layout=compact">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=julilan&color=blue)
