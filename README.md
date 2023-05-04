@@ -1,6 +1,6 @@
-## Juli Molnár @julilan
+### Juli Molnár @julilan
 
-Hi there! I’m currently learning web development at [Business College Helsinki](https://www.bc.fi/).
+Hi there! I’m currently learning web development at [Business College Helsinki](https://www.bc.fi/). When I'm not honing my skills to create amazing websites and applications, you can find me cozied up with a captivating book and a steaming cup of tea, or indulging in a marathon of the latest and greatest K-dramas.
 
 Pfp image by [Freepik](https://www.freepik.com/free-vector/collection-watercolor-autumn-animals_5289616.htm#query=forest%20animals&position=46&from_view=search&track=robertav1_2_sidr)
 
