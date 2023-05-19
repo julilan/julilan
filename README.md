@@ -1,9 +1,11 @@
-Hi there! I’m Juli and I'm currently learning web development at [Business College Helsinki](https://www.bc.fi/). When I'm not honing my skills to create amazing websites and applications, you can find me cozied up with a good book and a steaming cup of tea, or indulging in a marathon of the latest K-dramas. I'm also an avid gamer so feel free to add me on Discord!
+💻 Hi! I’m Juli and I'm currently learning web development at [Business College Helsinki](https://www.bc.fi/). I love outdoors and my life-long hobby is orienteering. I have a linguist background in Uralic languages and now I've taken on a challenge to transform myself into a software developer.
 
 <!--<img src="https://img.shields.io/badge/Discord-Elillan%231404-%235865F2"/>-->
-<img src="https://dcbadge.vercel.app/api/shield/146682053314871297?style=flat-square"/>
+🎮 Gamers and coders alike, feel free to add me on Discord.  
 
-### Languages and Tools
+![Discord tag Elillan#1404](https://dcbadge.vercel.app/api/shield/146682053314871297?style=flat-square)
+
+### Tech Stack
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -12,11 +14,9 @@ Hi there! I’m Juli and I'm currently learning web development at [Business Col
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony"/>
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h3>My Github Stats</h2>
+### My Github Stats
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=julilan&hide=contribs&count_private=true&show_icons=true&theme=react&hide_title=true&rank_icon=github&text_bold=false&line_height=30">
