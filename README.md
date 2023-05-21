@@ -1,4 +1,4 @@
-💻 Hi! I’m Juli and I'm currently learning web development at [Business College Helsinki](https://www.bc.fi/). I love outdoors and my life-long hobby is orienteering. I have a linguist background in Uralic languages and now I've taken on a challenge to transform myself into a software developer.
+💻 Hi! I’m Juli and currently learning web development at [Business College Helsinki](https://www.bc.fi/). I love outdoors and my life-long hobby is orienteering. I have a linguist background in Uralic languages and now I've taken on a challenge to transform myself into a software developer.
 
 <!--<img src="https://img.shields.io/badge/Discord-Elillan%231404-%235865F2"/>-->
 🎮 Gamers and coders alike, feel free to add me on Discord.  
