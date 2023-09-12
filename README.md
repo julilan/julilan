@@ -17,9 +17,9 @@
 <!--
 ### My Github Stats
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=julilan&hide=contribs&count_private=true&show_icons=true&theme=react&hide_title=true&rank_icon=github&text_bold=false&line_height=25"> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julilan&theme=react&hide=Dockerfile&layout=compact">
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=julilan&hide=contribs&count_private=true&show_icons=true&theme=react&hide_title=true&rank_icon=github&text_bold=false&line_height=25">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julilan&theme=react&hide=Dockerfile&layout=compact"> -->
 
 Pfp image by [Freepik](https://www.freepik.com/free-vector/collection-watercolor-autumn-animals_5289616.htm#query=forest%20animals&position=46&from_view=search&track=robertav1_2_sidr)
 
