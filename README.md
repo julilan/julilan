@@ -23,6 +23,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=julilan&hide=contribs&count_private=true&show_icons=true&theme=react&hide_title=true&rank_icon=github&text_bold=false&line_height=25">-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julilan&theme=react&hide=Dockerfile&layout=compact">
 
-Pfp image by [Freepik](https://www.freepik.com/free-vector/collection-watercolor-autumn-animals_5289616.htm#query=forest%20animals&position=46&from_view=search&track=robertav1_2_sidr)
+Pfp image by [Freepik](https://www.freepik.com/free-ai-image/cute-cat-library_82550966.htm#fromView=search&term=cat+drawing&track=ais_ai_generated&regularType=ai&page=1&position=44&uuid=bfa7be49-7c84-4f4b-8b59-9add2b29b1d8)
 
 <!-- ![](https://komarev.com/ghpvc/?username=julilan&color=blue) -->
