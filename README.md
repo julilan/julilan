@@ -1,4 +1,4 @@
-💻 Hi! I’m Juli and currently learning web development at [Business College Helsinki](https://en.bc.fi/). I love outdoors and my life-long hobby is orienteering. I have a linguist background in Uralic languages and now I've taken on a challenge to transform myself into a software developer.
+💻 Hi! I’m Julianna and currently learning web development at [Business College Helsinki](https://en.bc.fi/). I love outdoors and my life-long hobby is orienteering. I have a linguist background in Uralic languages and now I've taken on a challenge to transform myself into a software developer.
 
 <!--<img src="https://img.shields.io/badge/Discord-Elillan%231404-%235865F2"/>-->
 🎮 Gamers and coders alike, feel free to add me on Discord.  
@@ -22,4 +22,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=julilan&hide=contribs&count_private=true&show_icons=true&theme=react&hide_title=true&rank_icon=github&text_bold=false&line_height=25">-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julilan&theme=react&hide=Dockerfile&layout=compact">
 
-<!-- ![](https://komarev.com/ghpvc/?username=julilan&color=blue) -->
+Avatar photo by <a href="https://unsplash.com/@martinkatler?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Martin Katler</a> on <a href="https://unsplash.com/photos/brown-tabby-cat-t1uTkCsw-_o?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
