@@ -1,4 +1,4 @@
-💻 Hi! I’m Juli and work as a software developer at Wunder. I have studied full-stack web development at [Helsinki Business College](https://en.bc.fi/).
+💻 Hi! I’m Juli and work as a software developer at [Wunder](https://wunder.io/). I have studied full-stack web development at [Helsinki Business College](https://en.bc.fi/).
 
 ### Tech Stack
 
