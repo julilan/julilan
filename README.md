@@ -1,6 +1,6 @@
 Hello! 👋 
 
-I’m a junior web developer and accessiblity specialist at [Wunder](https://wunder.io/). I have studied full-stack web development at [Helsinki Business College](https://en.bc.fi/) with focus on [React](https://react.dev/) and [Drupal](https://www.drupal.org/).
+I’m a junior full-stack developer and accessiblity specialist at [Wunder](https://wunder.io/). I have studied web development at [Helsinki Business College](https://en.bc.fi/) with focus on [React](https://react.dev/) and [Drupal](https://www.drupal.org/).
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julilan&theme=react&hide=Dockerfile&layout=compact" alt="">
 
